@@ -1,4 +1,4 @@
-package main.b2o_intellij;
+package main.b2o_frontend;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

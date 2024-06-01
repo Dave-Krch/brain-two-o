@@ -11,6 +11,6 @@ module main.b2o_intellij {
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
 
-    opens main.b2o_intellij to javafx.fxml;
-    exports main.b2o_intellij;
+    opens main.b2o_frontend to javafx.fxml;
+    exports main.b2o_frontend;
 }

@@ -1,4 +1,4 @@
-package main.b2o_intellij;
+package main.b2o_frontend;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
